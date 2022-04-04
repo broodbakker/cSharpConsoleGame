@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace MonsterGenerator
 {
   class Monster
@@ -16,8 +12,6 @@ namespace MonsterGenerator
       hitPoints = monsterHitPoints;
       icon = monsterIcon;
     }
-
-
   }
 }
 
